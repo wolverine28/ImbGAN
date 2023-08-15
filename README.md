@@ -1,5 +1,6 @@
 # ImbGAN
 
+![Structure](./figure_structure.png)
 
 ### Pretrain
 ```python
